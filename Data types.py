@@ -90,4 +90,8 @@ print("Address:", person1.address)
 print("\nPerson 2 Details:")
 print("Name:", person2.name)
 print("Age:", person2.age)
+<<<<<<< HEAD
 print("Address:", person2.address)
+=======
+print("Address:", person2.address)
+>>>>>>> 0c03362 (Added Pandas Methods)
